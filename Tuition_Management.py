@@ -325,7 +325,7 @@ class Tuition:
           return output
     
     def add_data(self):
-           if self.var_name.get()=="":
+           if self.var_sl.get()=="":
                messagebox.showerror("Error","Roll no. field is necessary")
            else:
                try:
