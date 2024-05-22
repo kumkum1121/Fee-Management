@@ -16,3 +16,4 @@ Installation:
     Install Python if not already installed.
     Install required Python packages using pip install -r requirements.txt.
     Import the provided SQL database schema (database_schema.sql) into your MySQL server.
+    Import The provided images.
