@@ -9,7 +9,6 @@ Features:
     User-friendly interface for managing student records and fee transactions.
     Seamless integration with a MySQL database for efficient data storage and retrieval.
     Implemented functionalities for adding, editing, and deleting student information.
-    Secure login system to ensure data privacy and access control.
 
 Installation:
 
