@@ -14,6 +14,6 @@ Installation:
 
     Clone this repository to your local machine.
     Install Python if not already installed.
-    Install required Python packages using pip install -r requirements.txt.
+    Install required Python packages.
     Import the provided SQL database schema (database_schema.sql) into your MySQL server.
-    Import The provided images.
+    Import the provided images.
