@@ -26,4 +26,4 @@ This project is a Tuition Fee Management System developed using Tkinter GUI, Pyt
           pip install -r requirements.txt
           ```
    1.  Import the provided SQL database schema (database_schema.sql) into your MySQL server.
-   1. Import the provided images.
+
